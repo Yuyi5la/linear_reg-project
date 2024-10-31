@@ -1,0 +1,4 @@
+predicting artiste  album performance
+Ayra starr
+x variable = streams / monthly listiners
+y variable = idk
